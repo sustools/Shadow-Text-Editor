@@ -1,2 +1,3 @@
 # Shadow-Text-Editor
-A text editor.
+
+A text editor made by sustools.
