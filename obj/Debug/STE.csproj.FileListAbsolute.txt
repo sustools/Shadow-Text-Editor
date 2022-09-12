@@ -1,0 +1,11 @@
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\bin\Debug\Shadow Text Editor.exe.config
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\bin\Debug\Shadow Text Editor.exe
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\bin\Debug\Shadow Text Editor.pdb
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\STE.csproj.AssemblyReference.cache
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\STE.csproj.SuggestedBindingRedirects.cache
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\Shadow_Text_Editor.MainForm.resources
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\Shadow_Text_Editor.Properties.Resources.resources
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\STE.csproj.GenerateResource.cache
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\STE.csproj.CoreCompileInputs.cache
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\Shadow Text Editor.exe
+C:\Users\xshad0xx\Desktop\Shadow Text Editor\Shadow Text Editor\obj\Debug\Shadow Text Editor.pdb
